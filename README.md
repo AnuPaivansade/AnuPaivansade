@@ -8,14 +8,15 @@
   - Ruokalistageneraattori
     - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/ruokalistageneraattori_source_code)
-  - SO1, SO2 ja SO3 päättötyöt
   - RPA-päättötyö refaktoroituna?
   - S-mobiili rautalankamalli
  
   <br/>
  
 - **Mobile Development**
-  - [Ruokalistageneraattori](https://github.com/AnuPaivansade/ruokalistageneraattori)
+  - Mini-Budjettisovellus
+    - 🔗[Live Application]()
+    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner)
   - SO1, SO2 ja SO3 päättötyöt
   - RPA-päättötyö refaktoroituna?
   - S-mobiili rautalankamalli
@@ -58,7 +59,7 @@
 - Lean Six Sigma Yellow Belt
  
 <h2>👤 About me:</h2>
-I am a Business Information Technology student with a background in international transport and supply chain management. I am passionate about application development, frontend technologies, and automation solutions. I have hands-on experience with React, TypeScript, Node.js, and basic skills in UIPath Studio.
+I am a Business Information Technology student with a strong background in international transport and supply chain management. I am passionate about application development, frontend technologies, and automation solutions. I have hands-on experience with React, TypeScript, Node.js, and basic skills in UIPath Studio.
 
 <h2>🤝 Connect with me:</h2>
 
