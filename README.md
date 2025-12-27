@@ -2,7 +2,7 @@
 <br/><br/>
 <a href="https://github.com/AnuPaivansade">Junior Application Developer</a>, <a href="https://www.linkedin.com/in/anupaivansade">Supply Chain Professional</a> and 3rd year student in Business Technology</h1>
 
-<h2>👨‍💻 Application Projects:</h2>
+## 👨‍💻 Application Projects
 
 - **Web-development**
   - Ruokalistageneraattori
@@ -29,43 +29,73 @@
     - RPA-päättötyö refaktoroituna?
     - S-mobiili rautalankamalli
 
-<h2>🎨 Prototyping & Design:</h2>
+## 🎨 Prototyping & Design
   - Vektorikuvat, joku Photoshop-työ
 
 - <b>Teema / Tekniikka</b>
   - [Projektin otsikko](github-linkki)
  
-<h2>⚙️ Technologies & Tools:</h2>
+## ⚙️ Technologies & Tools
 
-- **Languages & Frameworks**
-  - VSCode
-  - Git
-  - GitHub
-  - Jira (eri versiot)
-  - JS / TS
-  - NodeJS
-  - Framer
-  - Adobe CC (Illustrator, Photoshop, AfterEffects, leiskaohjelma, videomuotoilu)
-  - Office 365 (perusohjelmistot, Power BI, Power Pivot)
-  - Wordpress
-  - HTML
-  - CSS
-  - React
-  - React Native
-  - Kirjastoja: MUI, React Native Paper, date-fns, Expo
+**Languages & Frameworks**
+<p>
+  <img src="assets/icons/ts-logo-128.png" width="50" title="TypeScript" />
+  <img src="assets/icons/js.png" width="50" title="JavaScript" />
+  <img src="assets/icons/React-icon.svg" width="50" title="React and React Native" />
+  <img src="assets/icons/nodejsDark.svg" width="100" title="Node.js" />
+  <img src="assets/icons/HTML5_Badge.svg" width="50" title="HTML5" />
+  <img src="assets/icons/CSS3_logo.svg" width="50" title="CSS3" />
+  <img src="assets/icons/python-logo-only.svg" width="40" title="Python" />
+</p>
 
-<h2>🎓 Certifications & Courses:</h2>
-- <a href="https://credentials.uipath.com/f626ba22-7e33-427b-bceb-e7da405e841c#acc.eS1I6FT">UiPath Academy: Automation Explorer Training</a><br/>
+**Libraries & Framework Ecosystems**
+  - Material UI
+  - React Native Paper
+  - date-fns
+  - Expo
+    
+**Tools & Platforms**
+<p>
+  <img src="assets/icons/vscode.png" width="50" title="Visual Studio Code" />
+  <img src="assets/icons/uipath-seeklogo.svg" width="100" title="UiPath Studio" />
+  <img src="assets/icons/Git-Icon-1788C.svg" width="50" title="Git" />
+  <img src="assets/icons/github-mark.png" width="50" title="GitHub" />
+  <img src="assets/icons/Jira_icon.png" width="50" title="Jira Work Management and Jira Software" />
+  <img src="assets/icons/WordPress-logotype-wmark.png" width="50" title="WordPress" />
+</p>
+
+**Databases & ORM**
+<p>
+  <img src="assets/icons/sqlite370_banner.gif" width="100" title="SQLite" />
+  <img src="assets/icons/Prisma-DarkLogo.svg" width="100" title="Prisma ORM" />
+</p>
+
+**Data & Business Tools**
+<p>
+  <img src="assets/icons/Microsoft_Office_Excel.svg" width="50" title="Excel" />
+  <img src="assets/icons/New_Power_BI_Logo.svg" width="50" title="Power BI" />
+</p>
+
+**Design & Creative Tools**
+<p>
+  <img src="assets/icons/Creative_Cloud_2021_logo.png" width="50" title="Adobe Creative Cloud / Illustrator, Photoshop, InDesign, AfterEffects, Premiere Pro" />
+  <img src="assets/icons/Framer_Logo_Core.png" width="100" title="Framer" />
+</p>
+
+## 🎓 Certifications & Courses
+- [UiPath Academy: Automation Explorer Training](https://credentials.uipath.com/f626ba22-7e33-427b-bceb-e7da405e841c#acc.eS1I6FT) 
 - Lean Six Sigma Yellow Belt
  
-<h2>👤 About me:</h2>
+## 👤 About me
 I am a Business Information Technology student with a strong background in international transport and supply chain management. I am passionate about application development, frontend technologies, and automation solutions. I have hands-on experience with React, TypeScript, Node.js, and basic skills in UIPath Studio.
 
-<h2>🤝 Connect with me:</h2>
+## 🤝 Connect with me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupaivansade)
-- :e-mail: anu.paivansade@gmail.com
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anu.paivansade@gmail.com)
+<a href="https://www.linkedin.com/in/anupaivansade" target="_blank">
+    <img src="assets/icons/LI-In-Bug.png" width="40" title="Connect with me on LinkedIn" />
+</a><br/>
+:e-mail: anu.paivansade@gmail.com
+
 
 <!--
 
