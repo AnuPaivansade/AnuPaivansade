@@ -1,7 +1,7 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20to%20my-nl-GitHub-portfolio!&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=43&descAlignY=60&descAlign=50&fontSize=60)
 # Hi, I'm Anu! 
   
-# [Junior Application Developer](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Technology
+## [Junior Application Developer](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Technology
 <p>I'm a Business Information Technology student with a strong background in international transport and supply chain management.  
 
 I'm passionate about **application development, frontend technologies, and automation solutions**, and I love exploring how technology can make everyday tasks smarter and more efficient.  
