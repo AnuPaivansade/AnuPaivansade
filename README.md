@@ -1,4 +1,5 @@
-<h1>Hi, I'm Anu! 
+![Welcome](https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Welcome%20to%20my-nl-GitHub-portfolio!&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=34&descAlignY=60&descAlign=50&fontSize=60)
+# Hi, I'm Anu! 
 <br/><br/>
 <a href="https://github.com/AnuPaivansade">Junior Application Developer</a>, <a href="https://www.linkedin.com/in/anupaivansade">Supply Chain Professional</a> and 3rd year student in Business Technology</h1>
 
