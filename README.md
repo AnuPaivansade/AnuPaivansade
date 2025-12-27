@@ -8,7 +8,7 @@ I'm passionate about **application development, frontend technologies, and autom
 
 I have hands-on experience with **React, TypeScript, Node.js**, and basic skills in **UIPath Studio**. Currently, I'm expanding my knowledge in **Power Platform** to build workflow automations and apps that solve real-world problems.  
 
-💡 I enjoy creating tools that make life easier — from planning a weekly meal schedule or managing a personal budget, to automating repetitive work tasks like data entry and reporting. Focusing on practical ways to improve everyday tasks and business processes motivates me to keep learning</p>
+💡 I enjoy creating tools that make life easier — from planning a weekly meal schedule or managing a personal budget, to automating repetitive work tasks like data entry and reporting. Focusing on practical ways to improve everyday tasks and business processes motivates me to keep learning.</p>
   
 ## 👨‍💻 Application Projects
 
