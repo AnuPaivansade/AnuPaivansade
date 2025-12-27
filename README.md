@@ -1,8 +1,15 @@
-![Welcome](https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Welcome%20to%20my-nl-GitHub-portfolio!&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=34&descAlignY=60&descAlign=50&fontSize=60)
+![Welcome](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20to%20my-nl-GitHub-portfolio!&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=43&descAlignY=60&descAlign=50&fontSize=60)
 # Hi, I'm Anu! 
-<br/><br/>
-<a href="https://github.com/AnuPaivansade">Junior Application Developer</a>, <a href="https://www.linkedin.com/in/anupaivansade">Supply Chain Professional</a> and 3rd year student in Business Technology</h1>
+  
+# [Junior Application Developer](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Technology
+<p>I'm a Business Information Technology student with a strong background in international transport and supply chain management.  
 
+I'm passionate about **application development, frontend technologies, and automation solutions**, and I love exploring how technology can make everyday tasks smarter and more efficient.  
+
+I have hands-on experience with **React, TypeScript, Node.js**, and basic skills in **UIPath Studio**. Currently, I'm expanding my knowledge in **Power Platform** to build workflow automations and apps that solve real-world problems.  
+
+💡 I enjoy creating tools that make life easier — from planning a weekly meal schedule or managing a personal budget, to automating repetitive work tasks like data entry and reporting. Focusing on practical ways to improve everyday tasks and business processes motivates me to keep learning</p>
+  
 ## 👨‍💻 Application Projects
 
 - **Web-development**
@@ -84,18 +91,13 @@
 </p>
 
 ## 🎓 Certifications & Courses
-- [UiPath Academy: Automation Explorer Training](https://credentials.uipath.com/f626ba22-7e33-427b-bceb-e7da405e841c#acc.eS1I6FT) 
+- UiPath Academy: [Automation Explorer Training](https://credentials.uipath.com/f626ba22-7e33-427b-bceb-e7da405e841c#acc.eS1I6FT) 
 - Lean Six Sigma Yellow Belt
- 
-## 👤 About me
-I am a Business Information Technology student with a strong background in international transport and supply chain management. I am passionate about application development, frontend technologies, and automation solutions. I have hands-on experience with React, TypeScript, Node.js, and basic skills in UIPath Studio.
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/anupaivansade" target="_blank">
-    <img src="assets/icons/LI-In-Bug.png" width="40" title="Connect with me on LinkedIn" />
-</a><br/>
-:e-mail: anu.paivansade@gmail.com
+- <a href="https://www.linkedin.com/in/anupaivansade" target="_blank"><img src="assets/icons/LI-In-Bug.png" width="40" title="Connect with me on LinkedIn" /></a><br/>
+- :e-mail: anu.paivansade@gmail.com
 
 
 <!--
