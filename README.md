@@ -99,6 +99,7 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 - <a href="https://www.linkedin.com/in/anupaivansade" target="_blank"><img src="assets/icons/LI-In-Bug.png" width="40" title="Connect with me on LinkedIn" /></a><br/>
 - :e-mail: anu.paivansade@gmail.com
 
+![Bye](https://capsule-render.vercel.app/api?type=soft&height=80&color=gradient&section=footer)
 
 <!--
 
