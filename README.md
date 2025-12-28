@@ -13,11 +13,12 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 ## 👨‍💻 Application Projects
 
 - **Web-development**
-  - Ruokalistageneraattori
+  - Meal Plan Generator
     - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/ruokalistageneraattori_source_code)
-  - RPA-päättötyö refaktoroituna?
-  - S-mobiili rautalankamalli
+  - SO2
+    - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
+    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/ruokalistageneraattori_source_code)
  
   <br/>
  
@@ -25,9 +26,6 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
   - Mini-Budjettisovellus
     - 🔗[Live Application]()
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner)
-  - SO1, SO2 ja SO3 päättötyöt
-  - RPA-päättötyö refaktoroituna?
-  - S-mobiili rautalankamalli
 
  <br/>
  
@@ -39,6 +37,7 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 
 ## 🎨 Prototyping & Design
   - Vektorikuvat, joku Photoshop-työ
+  - S-Pankki Framer
 
 - <b>Teema / Tekniikka</b>
   - [Projektin otsikko](github-linkki)
