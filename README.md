@@ -25,7 +25,7 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 - **Mobile Development**
   - Mini Budget Planner
     - 🎬[Demo Video](https://youtu.be/U7R_h6_xuss)
-    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner)
+    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner_source_code)
 
  <br/>
  
