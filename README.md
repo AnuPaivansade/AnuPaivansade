@@ -15,7 +15,7 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 - **Web-development**
   - Meal Plan Generator
     - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
-    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/ruokalistageneraattori_source_code)
+    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/meal_plan_generator_source_code)
   - SO2
     - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/ruokalistageneraattori_source_code)
