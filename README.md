@@ -23,8 +23,8 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
   <br/>
  
 - **Mobile Development**
-  - Mini-Budjettisovellus
-    - 🔗[Live Application](https://youtube.com/shorts/CervZK_Bqto?feature=share)
+  - Mini Budget Planner
+    - 🔗[Demo Video](https://youtube.com/shorts/CervZK_Bqto?feature=share)
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner)
 
  <br/>
