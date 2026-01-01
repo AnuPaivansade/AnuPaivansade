@@ -17,8 +17,8 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
     - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/meal_plan_generator_source_code)
   - Weekly Sauna Scheduler
-    - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
-    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/reserve_weekly_sauna_source_code)
+    - 🔗[Live Application](https://anupaivansade.github.io/Reserve_Weekly_Sauna/)
+    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/Reserve_Weekly_Sauna)
  
   <br/>
  
