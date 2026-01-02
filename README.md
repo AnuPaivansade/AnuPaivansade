@@ -13,13 +13,15 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 ## 👨‍💻 Application Projects
 
 - **Web-development**
-  - Meal Plan Generator
-    - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
-    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/meal_plan_generator_source_code)
+
   - Weekly Sauna Scheduler
     - 🔗[Live Application](https://anupaivansade.github.io/Reserve_Weekly_Sauna/)
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/Reserve_Weekly_Sauna)
     - ℹ️ _**Note:** The backend is hosted on Render (free tier). If the service has been idle, the first request may take up to ~1–2 minutes while the server wakes up. This is a known limitation of free cloud hosting._
+   
+  - Meal Plan Generator
+    - 🔗[Live Application](https://anupaivansade.github.io/ruokalistageneraattori/)
+    - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/meal_plan_generator_source_code)
  
   <br/>
  
