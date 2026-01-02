@@ -53,6 +53,7 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
   <img src="assets/icons/js.png" width="50" title="JavaScript" />
   <img src="assets/icons/React-icon.svg" width="50" title="React and React Native" />
   <img src="assets/icons/nodejsDark.svg" width="100" title="Node.js" />
+  <img src="assets/icons/Expressjs.png" width="100" title="Express.js" />
   <img src="assets/icons/HTML5_Badge.svg" width="50" title="HTML5" />
   <img src="assets/icons/CSS3_logo.svg" width="50" title="CSS3" />
   <img src="assets/icons/python-logo-only.svg" width="40" title="Python" />
