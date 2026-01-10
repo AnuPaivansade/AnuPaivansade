@@ -29,7 +29,7 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
   - Mini Budget Planner
     - 🎬[Demo Video](https://youtu.be/U7R_h6_xuss)
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner_source_code)
-
+  <br/>
 
 ## 🎨 Prototyping & Design
 - **Prototyping with Framer**
@@ -46,7 +46,8 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 - **Project with Adobe Photoshop**
     - 🖼️ [Visual Showcase](https://anupaivansade.github.io/PhotoshopProjects/)
     - 📁 [Repository](https://github.com/AnuPaivansade/PhotoshopProjects)
- 
+ <br/>
+   
 ## ⚙️ Technologies & Tools
 
 **Languages & Frameworks**
@@ -94,11 +95,13 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
   <img src="assets/icons/Creative_Cloud_2021_logo.png" width="50" title="Adobe Creative Cloud / Illustrator, Photoshop, InDesign, AfterEffects, Premiere Pro" />
   <img src="assets/icons/Framer_Logo_Core.png" width="100" title="Framer" />
 </p>
-
+<br/>
+  
 ## 🎓 Certifications & Courses
 - UiPath Academy: [Automation Explorer Training](https://credentials.uipath.com/f626ba22-7e33-427b-bceb-e7da405e841c#acc.eS1I6FT) 
 - Lean Six Sigma Yellow Belt
-
+<br/>
+  
 ## 🤝 Connect with me
 
 - <a href="https://www.linkedin.com/in/anupaivansade" target="_blank"><img src="assets/icons/LI-In-Bug.png" width="40" title="Connect with me on LinkedIn" /></a><br/>
