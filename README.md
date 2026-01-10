@@ -31,17 +31,14 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner_source_code)
 
  <br/>
- 
-  - **RPA development**
-    - [Ruokalistageneraattori](https://github.com/AnuPaivansade/ruokalistageneraattori)
-    - SO1, SO2 ja SO3 päättötyöt
-    - RPA-päättötyö refaktoroituna?
-    - S-mobiili rautalankamalli
 
 ## 🎨 Prototyping & Design
 - **Prototyping with Framer**
-    - 🖼️ [Visual Showcase](https://anupaivansade.github.io/IllustratorProjects/)
-    - 📁 [Repository](https://github.com/AnuPaivansade/IllustratorProjects)
+    - Interactive UI prototypes created in Framer, focusing on layout, user flow, and visual hierarchy. These projects demonstrates early-stage design and prototyping skills. Both projects are available in Finnish.
+    - 🖼️ [Toy Shop](https://overly-color-679776.framer.app/)
+      - Nobile-only UI prototype, designed for 390 px wide mobile device
+    - 🖼️ [Pizzeria](https://delicious-palette-529474.framer.app/)
+      - Desktop-only UI prototype
 
 - **Projects with Adobe Illustrator**
     - 🖼️ [Visual Showcase](https://anupaivansade.github.io/IllustratorProjects/)
