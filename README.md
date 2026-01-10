@@ -1,4 +1,4 @@
-![Welcome](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20to%20my-nl-GitHub-portfolio!&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontAlignY=43&descAlignY=60&descAlign=50&fontSize=60)
+![Welcome](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20to%20my%20portfolio!&fontSize=60&fontAlignY=50)
 # Hi, I'm Anu! 
   
 ## [Junior Application Developer](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Information Technology
