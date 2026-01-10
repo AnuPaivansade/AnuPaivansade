@@ -39,11 +39,17 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
     - S-mobiili rautalankamalli
 
 ## 🎨 Prototyping & Design
-  - Vektorikuvat, joku Photoshop-työ
-  - S-Pankki Framer
+- **Prototyping with Framer**
+    - 🖼️ [Visual Showcase](https://anupaivansade.github.io/IllustratorProjects/)
+    - 📁 [Repository](https://github.com/AnuPaivansade/IllustratorProjects)
 
-- <b>Teema / Tekniikka</b>
-  - [Projektin otsikko](github-linkki)
+- **Projects with Adobe Illustrator**
+    - 🖼️ [Visual Showcase](https://anupaivansade.github.io/IllustratorProjects/)
+    - 📁 [Repository](https://github.com/AnuPaivansade/IllustratorProjects)
+
+- **Project with Adobe Photoshop**
+    - 🖼️ [Visual Showcase](https://anupaivansade.github.io/PhotoshopProjects/)
+    - 📁 [Repository](https://github.com/AnuPaivansade/PhotoshopProjects)
  
 ## ⚙️ Technologies & Tools
 
