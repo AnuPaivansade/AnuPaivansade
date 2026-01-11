@@ -4,7 +4,7 @@
 ## [Junior Application Developer](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Information Technology
 <p>I'm a Business Information Technology student with a strong background in international transport and supply chain management.  
 
-I'm passionate about **application development, frontend technologies, and automation solutions**, and I love exploring how technology can make everyday tasks smarter and more efficient.  
+I'm interested in **application development, web dev technologies, and automation solutions**, and I love exploring how technology can make everyday tasks smarter and more efficient.  
 
 I have hands-on experience with **React, TypeScript, Node.js**, and basic skills in **UIPath Studio**. Currently, I'm expanding my knowledge in **Power Platform** to build workflow automations and apps that solve real-world problems.  
 
