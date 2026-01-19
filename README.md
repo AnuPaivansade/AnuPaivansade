@@ -31,10 +31,12 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
     - :hammer_and_wrench: [Source Code](https://github.com/AnuPaivansade/mini_budget_planner_source_code)
   <br/>
 
-  - **RPA Development**
+- **RPA Development**
   - Automation for Travel Expense Handling
     - 🎬[Demo Video]()
     - :hammer_and_wrench: [Repository](https://github.com/AnuPaivansade/RPA_TravelExpenseAutomation)
+   
+    <br/>
 
 ## 🎨 Prototyping & Design
 - **Prototyping with Framer**
