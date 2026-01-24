@@ -42,7 +42,7 @@ I have hands-on experience with **React, TypeScript, Node.js**, and basic skills
 - **Prototyping with Framer**
     - Interactive UI prototypes created in Framer, focusing on layout, user flow, and visual hierarchy. These projects demonstrates early-stage design and prototyping skills. Both projects are available in Finnish.
     - 🖼️ [Toy Shop](https://overly-color-679776.framer.app/)
-      - Nobile-only UI prototype, designed for 390 px wide mobile device
+      - Mobile-only UI prototype, designed for 390 px wide mobile device
     - 🖼️ [Pizzeria](https://delicious-palette-529474.framer.app/)
       - Desktop-only UI prototype
 
