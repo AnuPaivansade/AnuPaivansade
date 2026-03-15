@@ -1,14 +1,14 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20to%20my%20portfolio!&fontSize=60&fontAlignY=50)
 # Hi, I'm Anu! 
   
-## [Junior Application Developer](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Information Technology
+## [Future IT-specialist](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Information Technology
 <p>I'm a Business Information Technology student with a strong background in international transport and supply chain management.  
 
-I'm interested in **application development, web dev technologies, and automation solutions**, and I love exploring how technology can make everyday tasks smarter and more efficient.  
+I'm interested in **information systems, software development fundamentals, and solutions that support business processes and operational efficiency**. I love exploring how technology can make everyday tasks smarter and more efficient.  
 
-I have hands-on experience with **React, TypeScript, Node.js**, and basic skills in **UIPath Studio**. Currently, I'm expanding my knowledge in **Power Platform** to build workflow automations and apps that solve real-world problems.  
+I’m currently building my practical skills through software projects and exploring how technology can support business operations.
 
-💡 I enjoy creating tools that make life easier — from planning a weekly meal schedule or managing a personal budget, to automating repetitive work tasks like data entry and reporting. Focusing on practical ways to improve everyday tasks and business processes motivates me to keep learning.</p>
+💡 I am interested in practical ways to improve everyday work and business processes with the help of digital tools and information systems. This can range from building small personal tools to exploring ways to automate repetitive tasks such as data entry and reporting.</p>
   
 ## 👨‍💻 Application Projects
 
