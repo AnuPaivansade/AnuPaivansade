@@ -1,14 +1,14 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20to%20my%20portfolio!&fontSize=60&fontAlignY=50)
 # Hi, I'm Anu! 
   
-## [Future IT-specialist](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 3rd year student in Business Information Technology
-<p>I'm a Business Information Technology student with a strong background in international transport and supply chain management.  
+## [Future Software & Business Applications Specialist](https://github.com/AnuPaivansade), [Supply Chain Professional](https://www.linkedin.com/in/anupaivansade) and 4th year student in Business Information Technology
+<p>I'm a Business Information Technology student with with over ten years of experience in supply chain and international logistics. Throughout my career, I have worked extensively with business systems and process development, which inspired me to transition into IT. 
 
-I'm interested in **information systems, software development fundamentals, and solutions that support business processes and operational efficiency**. I love exploring how technology can make everyday tasks smarter and more efficient.  
+I'm interested in **software development, business applications and digital solutions that support business processes and operational efficiency**. I love exploring how technology can make everyday tasks smarter and more efficient.  
 
 I’m currently building my practical skills through software projects and exploring how technology can support business operations.
 
-💡 I am interested in practical ways to improve everyday work and business processes with the help of digital tools and information systems. This can range from building small personal tools to exploring ways to automate repetitive tasks such as data entry and reporting.</p>
+💡 I enjoy building practical digital solutions that solve real-world problems. Whether through software development, automation or business applications, my goal is the same: to make everyday work simpler, more efficient and more user-friendly.</p>
   
 ## 👨‍💻 Application Projects
 
